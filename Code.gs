@@ -16,7 +16,7 @@
  *   2. Run once manually to grant permissions
  *   3. Set a time-driven trigger on duplicateGmailEvents() — every 1 hour recommended
  *
- * Author: Mark Peterson
+ * Author: openr0ad
  * License: MIT
  */
 
